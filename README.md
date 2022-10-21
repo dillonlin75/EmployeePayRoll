@@ -1,4 +1,4 @@
-# EmploeePayRoll
+# EmployeePayRoll
 A basic employee payroll that I created. 
 Each employee should have:
 - Employee ID that consists of 2 letters and 3 digits(i.e. AF101)
